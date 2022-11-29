@@ -13,13 +13,19 @@ https://xapi-one.vercel.app/api/randomuser
 ```
 
 # App
+```
 https://xapi-one.vercel.app/
-
+```
 
 ## Posts
 ```
 https://xapi-one.vercel.app/api/posts/
 https://xapi-one.vercel.app/api/posts/1
+```
+
+## XML
+```
+https://xapi-one.vercel.app/api/xml/sitemap
 ```
 
 ## People
