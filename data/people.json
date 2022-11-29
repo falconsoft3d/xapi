@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Juan",
+        "age": 20,
+        "email" : "demo@demo.cl",
+        "phone" : ["+56912345678", "+56987654321"]
+    },
+    {
+        "id": 2,
+        "name": "Pepe",
+        "age": 20,
+        "email" : "pepe@demo.cl",
+        "phone" : ["+569123225678"]
+    },
+    {
+        "id": 3,
+        "name": "Juan",
+        "age": 19,
+        "email" : "juan@demo.cl",
+        "phone" : ["+349123299678"]
+    },
+    {
+        "id": 4,
+        "name": "Maria",
+        "age": 21,
+        "email" : "maria@demo.cl",
+        "phone" : []
+    },
+    {
+        "id": 5,
+        "name": "Lisbeth",
+        "age": 78,
+        "email" : "lisbeth@demo.cl",
+        "phone" : []
+    }
+]
