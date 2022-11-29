@@ -7,6 +7,10 @@ This app is a simple app to test api rest.
 https://xapi-one.vercel.app/api/code
 ```
 
+# Random User
+```
+https://xapi-one.vercel.app/api/randomuser
+```
 
 # App
 https://xapi-one.vercel.app/
