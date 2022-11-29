@@ -1,6 +1,13 @@
 ## Documentation
 This app is a simple app to test api rest.
 
+
+## Generate Code
+```
+https://xapi-one.vercel.app/api/code
+```
+
+
 # App
 https://xapi-one.vercel.app/
 
