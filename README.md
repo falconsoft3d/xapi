@@ -49,6 +49,11 @@ request(options, function (error, response) {
 });
 ```
 
+## Other
+```
+https://xapi-one.vercel.app/api/other/beers
+```
+
 # My contact data
 ```
 Marlon Falcón Hernández | Valencia | Spain
