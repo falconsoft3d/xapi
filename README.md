@@ -7,6 +7,11 @@ This app is a simple app to test api rest.
 https://xapi-one.vercel.app/api/code
 ```
 
+# Generate Password
+```
+https://xapi-one.vercel.app/api/password/12
+```
+
 # Random User
 ```
 https://xapi-one.vercel.app/api/randomuser
