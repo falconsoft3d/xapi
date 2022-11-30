@@ -1893,6 +1893,11 @@
     "@pkgr/utils" "^2.3.1"
     "tslib" "^2.4.0"
 
+"systeminformation@^5.15.1":
+  "integrity" "sha512-KVAz71Hb8TmEO/4UXMHbV0hXV/tAs/gwesb4MDjo4wtsDunQy9qRYwp5jpA5LLE7IXXX9BYqGFTfT9drgnDECQ=="
+  "resolved" "https://registry.npmjs.org/systeminformation/-/systeminformation-5.15.1.tgz"
+  "version" "5.15.1"
+
 "tapable@^2.2.0":
   "integrity" "sha512-GNzQvQTOIP6RyTfE2Qxb8ZVlNmw0n88vp1szwWRimP02mnTsx3Wtn5qRdqY9w2XduFNUgvOwhNnQsjwCp+kqaQ=="
   "resolved" "https://registry.npmjs.org/tapable/-/tapable-2.2.1.tgz"

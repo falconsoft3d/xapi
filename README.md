@@ -52,6 +52,7 @@ request(options, function (error, response) {
 ## Other
 ```
 https://xapi-one.vercel.app/api/other/beers
+https://xapi-one.vercel.app/api/other/system
 ```
 
 # My contact data
