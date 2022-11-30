@@ -26,6 +26,7 @@ https://xapi-one.vercel.app/api/posts/1
 ## XML
 ```
 https://xapi-one.vercel.app/api/xml/sitemap
+https://xapi-one.vercel.app/api/xml/system
 ```
 
 ## People
